@@ -565,7 +565,7 @@ header ul.is-sticky li a.active {
 
 /* start: footer styles */
 footer {
-    background: #333;
+    background: 	#000000;
     padding: 8rem 0;
 }
 
@@ -707,7 +707,7 @@ footer small a:hover {
 
     nav ul {
         position: fixed;
-        background: #000000;
+        background: rgb(146, 140, 140);
         right: -100%;
         top: 0;
         margin: 0;
@@ -745,7 +745,7 @@ footer small a:hover {
 
     nav ul li a.active,
     nav ul li a:hover {
-        color: #bef614;
+        color: #f69314;
     }
 }
 
