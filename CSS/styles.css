@@ -707,7 +707,7 @@ footer small a:hover {
 
     nav ul {
         position: fixed;
-        background: #fff;
+        background: #000000;
         right: -100%;
         top: 0;
         margin: 0;
@@ -745,7 +745,7 @@ footer small a:hover {
 
     nav ul li a.active,
     nav ul li a:hover {
-        color: #f69314;
+        color: #bef614;
     }
 }
 
